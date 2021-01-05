@@ -1,12 +1,3 @@
-com/yyh/book/springboot/web/dto/PostsUpdateRequestDto.java
- com.yyh.book.springboot.web.dto.PostsUpdateRequestDto
- com.yyh.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/yyh/book/springboot/web/HelloController.java
- com.yyh.book.springboot.web.HelloController
-com/yyh/book/springboot/web/dto/HelloResponseDto.java
- com.yyh.book.springboot.web.dto.HelloResponseDto
-com/yyh/book/springboot/domain/posts/PostsRepository.java
- com.yyh.book.springboot.domain.posts.PostsRepository
 com/yyh/book/springboot/domain/BaseTimeEntity.java
  com.yyh.book.springboot.domain.BaseTimeEntity
 com/yyh/book/springboot/Application.java
@@ -14,12 +5,25 @@ com/yyh/book/springboot/Application.java
 com/yyh/book/springboot/domain/posts/Posts.java
  com.yyh.book.springboot.domain.posts.Posts
  com.yyh.book.springboot.domain.posts.Posts$PostsBuilder
-com/yyh/book/springboot/service/posts/PostsService.java
- com.yyh.book.springboot.service.posts.PostsService
+com/yyh/book/springboot/web/dto/PostsResponseDto.java
+ com.yyh.book.springboot.web.dto.PostsResponseDto
+com/yyh/book/springboot/web/HelloController.java
+ com.yyh.book.springboot.web.HelloController
+com/yyh/book/springboot/web/dto/HelloResponseDto.java
+ com.yyh.book.springboot.web.dto.HelloResponseDto
 com/yyh/book/springboot/web/dto/PostsSaveRequestDto.java
  com.yyh.book.springboot.web.dto.PostsSaveRequestDto
  com.yyh.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/yyh/book/springboot/web/dto/PostsUpdateRequestDto.java
+ com.yyh.book.springboot.web.dto.PostsUpdateRequestDto
+ com.yyh.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/yyh/book/springboot/domain/posts/PostsRepository.java
+ com.yyh.book.springboot.domain.posts.PostsRepository
+com/yyh/book/springboot/web/dto/PostsListResponseDto.java
+ com.yyh.book.springboot.web.dto.PostsListResponseDto
+com/yyh/book/springboot/service/posts/PostsService.java
+ com.yyh.book.springboot.service.posts.PostsService
+com/yyh/book/springboot/web/IndexController.java
+ com.yyh.book.springboot.web.IndexController
 com/yyh/book/springboot/web/PostsApiController.java
  com.yyh.book.springboot.web.PostsApiController
-com/yyh/book/springboot/web/dto/PostsResponseDto.java
- com.yyh.book.springboot.web.dto.PostsResponseDto

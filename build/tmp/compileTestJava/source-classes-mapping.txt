@@ -1,8 +1,10 @@
 com/yyh/book/springboot/dto/HelloResponseDtoTest.java
  com.yyh.book.springboot.dto.HelloResponseDtoTest
-com/yyh/book/springboot/HelloControllerTest.java
- com.yyh.book.springboot.HelloControllerTest
 com/yyh/book/springboot/web/PostsApiControllerTest.java
  com.yyh.book.springboot.web.PostsApiControllerTest
+com/yyh/book/springboot/web/IndexControllerTest.java
+ com.yyh.book.springboot.web.IndexControllerTest
 com/yyh/book/springboot/domain/posts/PostsRepositoryTEST.java
  com.yyh.book.springboot.domain.posts.PostsRepositoryTEST
+com/yyh/book/springboot/HelloControllerTest.java
+ com.yyh.book.springboot.HelloControllerTest
