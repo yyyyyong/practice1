@@ -21,7 +21,7 @@ public class IndexController {
     private final HttpSession httpSession;
 
 
-    //
+
 
     @GetMapping("/")
     public String index(Model model, @LoginUser SessionUser user)
