@@ -1,4 +1,4 @@
-package com.yyh.book.springboot;
+package com.yyh.book.springboot.web;
 
 import com.yyh.book.springboot.config.auth.SecurityConfig;
 import com.yyh.book.springboot.web.HelloController;
@@ -21,7 +21,11 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @RunWith(SpringRunner.class)
-@WebMvcTest()
+@WebMvcTest(controllers = HelloController.class,
+        excludeFilters = {
+                @ComponentScan.Filter(type = FilterType.ASSIGNABLE_TYPE, classes = SecurityConfig.class)
+        }
+)
 public class HelloControllerTest {
 
     @Autowired

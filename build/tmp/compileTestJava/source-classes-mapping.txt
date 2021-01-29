@@ -6,5 +6,5 @@ com/yyh/book/springboot/web/IndexControllerTest.java
  com.yyh.book.springboot.web.IndexControllerTest
 com/yyh/book/springboot/domain/posts/PostsRepositoryTEST.java
  com.yyh.book.springboot.domain.posts.PostsRepositoryTEST
-com/yyh/book/springboot/HelloControllerTest.java
- com.yyh.book.springboot.HelloControllerTest
+com/yyh/book/springboot/web/HelloControllerTest.java
+ com.yyh.book.springboot.web.HelloControllerTest
