@@ -16,6 +16,7 @@ before_install:
   - chmod +x gradlew
 script: "./gradlew clean build"
 
+
 before_deploy:
   - zip -r practice1 *
   - mkdir -p deploy
