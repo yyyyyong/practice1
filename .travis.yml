@@ -14,6 +14,7 @@ cache:
 
 before_install:
   - chmod +x gradlew
+  - rm -rf practice1.zip
 
 script: "./gradlew clean build"
 
