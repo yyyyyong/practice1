@@ -14,12 +14,10 @@ cache:
 
 before_install:
   - chmod +x gradlew
-  - rm -rf practice1.zip
-
 script: "./gradlew clean build"
 
 before_deploy:
-  - zip -r practice1
+  - zip -r practice1 *
   - mkdir -p deploy
   - mv practice1.zip deploy/practice1.zip
 
