@@ -12,10 +12,10 @@ cache:
     - '$HOME/.m2/repository'
     - '$HOME/.gradle'
 
-script: "./gradlew clean build"
-
 before_install:
   - chmod +x gradlew
+
+script: "./gradlew clean build"
 
 before_deploy:
   -  zip -r freelec-springboot2-webservice
@@ -38,4 +38,4 @@ deploy:
 notifications:
   email:
     recipients:
-      - yoonyh3519@naver.com
+      - yoonyh3519@gmail.com
