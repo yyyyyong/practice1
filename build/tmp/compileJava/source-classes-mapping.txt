@@ -29,8 +29,8 @@ com/yyh/book/springboot/service/posts/PostsService.java
  com.yyh.book.springboot.service.posts.PostsService
 com/yyh/book/springboot/web/dto/PostsListResponseDto.java
  com.yyh.book.springboot.web.dto.PostsListResponseDto
-com/yyh/book/springboot/web/IndexController.java
- com.yyh.book.springboot.web.IndexController
+com/yyh/book/springboot/domain/user/UserRepository.java
+ com.yyh.book.springboot.domain.user.UserRepository
 com/yyh/book/springboot/web/dto/PostsSaveRequestDto.java
  com.yyh.book.springboot.web.dto.PostsSaveRequestDto
  com.yyh.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
@@ -49,5 +49,5 @@ com/yyh/book/springboot/config/auth/LoginUser.java
  com.yyh.book.springboot.config.auth.LoginUser
 com/yyh/book/springboot/web/HelloController.java
  com.yyh.book.springboot.web.HelloController
-com/yyh/book/springboot/domain/user/UserRepository.java
- com.yyh.book.springboot.domain.user.UserRepository
+com/yyh/book/springboot/web/IndexController.java
+ com.yyh.book.springboot.web.IndexController
