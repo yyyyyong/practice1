@@ -8,3 +8,7 @@ com/yyh/book/springboot/domain/posts/PostsRepositoryTEST.java
  com.yyh.book.springboot.domain.posts.PostsRepositoryTEST
 com/yyh/book/springboot/web/HelloControllerTest.java
  com.yyh.book.springboot.web.HelloControllerTest
+com/yyh/book/springboot/web/ProfileControllerTest.java
+ com.yyh.book.springboot.web.ProfileControllerTest
+com/yyh/book/springboot/web/ProfileControllerUnitTest.java
+ com.yyh.book.springboot.web.ProfileControllerUnitTest

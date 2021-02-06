@@ -20,8 +20,8 @@ com/yyh/book/springboot/config/auth/dto/SessionUser.java
  com.yyh.book.springboot.config.auth.dto.SessionUser
 com/yyh/book/springboot/web/dto/PostsResponseDto.java
  com.yyh.book.springboot.web.dto.PostsResponseDto
-com/yyh/book/springboot/config/auth/SecurityConfig.java
- com.yyh.book.springboot.config.auth.SecurityConfig
+com/yyh/book/springboot/web/ProfileController.java
+ com.yyh.book.springboot.web.ProfileController
 com/yyh/book/springboot/domain/posts/Posts.java
  com.yyh.book.springboot.domain.posts.Posts
  com.yyh.book.springboot.domain.posts.Posts$PostsBuilder
@@ -51,3 +51,5 @@ com/yyh/book/springboot/web/HelloController.java
  com.yyh.book.springboot.web.HelloController
 com/yyh/book/springboot/web/IndexController.java
  com.yyh.book.springboot.web.IndexController
+com/yyh/book/springboot/config/auth/SecurityConfig.java
+ com.yyh.book.springboot.config.auth.SecurityConfig
