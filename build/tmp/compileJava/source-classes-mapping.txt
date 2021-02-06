@@ -1,13 +1,16 @@
 com/yyh/book/springboot/domain/BaseTimeEntity.java
  com.yyh.book.springboot.domain.BaseTimeEntity
-com/yyh/book/springboot/config/auth/CustomOAuth2UserService.java
- com.yyh.book.springboot.config.auth.CustomOAuth2UserService
-com/yyh/book/springboot/domain/user/UserRepository.java
- com.yyh.book.springboot.domain.user.UserRepository
+com/yyh/book/springboot/Application.java
+ com.yyh.book.springboot.Application
+com/yyh/book/springboot/config/auth/dto/OAuthAttributes.java
+ com.yyh.book.springboot.config.auth.dto.OAuthAttributes
+ com.yyh.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/yyh/book/springboot/web/dto/HelloResponseDto.java
  com.yyh.book.springboot.web.dto.HelloResponseDto
 com/yyh/book/springboot/domain/user/Role.java
  com.yyh.book.springboot.domain.user.Role
+com/yyh/book/springboot/config/jpaConfig.java
+ com.yyh.book.springboot.config.jpaConfig
 com/yyh/book/springboot/domain/posts/PostsRepository.java
  com.yyh.book.springboot.domain.posts.PostsRepository
 com/yyh/book/springboot/web/dto/PostsUpdateRequestDto.java
@@ -26,8 +29,8 @@ com/yyh/book/springboot/service/posts/PostsService.java
  com.yyh.book.springboot.service.posts.PostsService
 com/yyh/book/springboot/web/dto/PostsListResponseDto.java
  com.yyh.book.springboot.web.dto.PostsListResponseDto
-com/yyh/book/springboot/config/jpaConfig.java
- com.yyh.book.springboot.config.jpaConfig
+com/yyh/book/springboot/web/IndexController.java
+ com.yyh.book.springboot.web.IndexController
 com/yyh/book/springboot/web/dto/PostsSaveRequestDto.java
  com.yyh.book.springboot.web.dto.PostsSaveRequestDto
  com.yyh.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
@@ -40,14 +43,11 @@ com/yyh/book/springboot/config/WebConfig.java
  com.yyh.book.springboot.config.WebConfig
 com/yyh/book/springboot/web/PostsApiController.java
  com.yyh.book.springboot.web.PostsApiController
-com/yyh/book/springboot/web/HelloController.java
- com.yyh.book.springboot.web.HelloController
+com/yyh/book/springboot/config/auth/CustomOAuth2UserService.java
+ com.yyh.book.springboot.config.auth.CustomOAuth2UserService
 com/yyh/book/springboot/config/auth/LoginUser.java
  com.yyh.book.springboot.config.auth.LoginUser
-com/yyh/book/springboot/config/auth/dto/OAuthAttributes.java
- com.yyh.book.springboot.config.auth.dto.OAuthAttributes
- com.yyh.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
-com/yyh/book/springboot/Application.java
- com.yyh.book.springboot.Application
-com/yyh/book/springboot/web/IndexController.java
- com.yyh.book.springboot.web.IndexController
+com/yyh/book/springboot/web/HelloController.java
+ com.yyh.book.springboot.web.HelloController
+com/yyh/book/springboot/domain/user/UserRepository.java
+ com.yyh.book.springboot.domain.user.UserRepository
